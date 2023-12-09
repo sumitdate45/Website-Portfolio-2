@@ -1,0 +1,33 @@
+ol {
+ margin-left: -40px;
+ margin-top: -20px;
+ list-style-position: inside;
+}
+h1{
+ color:red;
+}
+h2{
+ color: blueviolet
+}
+.headings{
+ text-align:center;
+}
+
+.project{
+ color:coral
+}
+.section{
+ color:coral
+}
+.paraheading{
+ color:blueviolet
+}
+.link{
+ color:darkmagenta
+}
+#special{
+ color:darkturquoise
+}
+.size{
+ font-size: larger;
+}
